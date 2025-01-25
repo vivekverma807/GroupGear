@@ -70,7 +70,7 @@ body {
   margin-top: 50px;
   margin-right: 10px;
   padding-bottom: 10px;
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 /* Style for textboxes of the form */
