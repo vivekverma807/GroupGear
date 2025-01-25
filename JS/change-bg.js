@@ -32,6 +32,7 @@ window.onload = function(){
           'url(../Images/Background/pexels-ketut-subiyanto-4436363.jpg)',
           'url(../Images/Background/pexels-nappy-1058959.jpg)',
           'url(../Images/Background/pexels-mohamed-almari-368893.jpg)',
+          'url(../Images/Background/gg.jpg)',
       ]
       
     //   change image every after 5 seconds
