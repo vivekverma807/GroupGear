@@ -22,7 +22,7 @@
   require_once "functions.php";
   ?>
   <!-- background video -->
-  <img autoplay muted loop id="backgroundVideo" src="https://cdn.pixabay.com/photo/2018/08/23/07/35/new-year-background-3625405_640.jpg"></img>
+  <img autoplay muted loop id="backgroundVideo" src="https://img.freepik.com/free-photo/abstract-uv-ultraviolet-light-composition_23-2149243965.jpg"></img>
   <video autoplay muted loop src="https://i.ytimg.com/vi/CGX1ddclbII/maxresdefault.jpg" alt="Mobile-Image" id="backgroundImage"></video>
 
   <!-- title of website -->

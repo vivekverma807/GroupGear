@@ -21,7 +21,7 @@
 <body>
 
   <!-- background images -->
-  <img src="https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" id="backgroundVideo">
+  <img src="https://img.freepik.com/free-vector/background-wave-particle-digital-gradient-colorful_483537-1576.jpg?t=st=1737826197~exp=1737829797~hmac=543fa4441ca50a09afbe769a42eed2339895026b8450920ee8ece8aa402a5c02&w=1060" id="backgroundVideo">
   <img src="https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="Mobile-Imange" id="backgroundImage">
 
   <!-- title of website -->
