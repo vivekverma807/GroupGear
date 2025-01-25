@@ -58,6 +58,7 @@ body {
   left: 0;
   right: 0;
   margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .login-box h1 {
@@ -70,7 +71,7 @@ body {
   margin-top: 50px;
   margin-right: 10px;
   padding-bottom: 10px;
-  background-color: white;
+  background-color: black;
 }
 
 /* Style for textboxes of the form */

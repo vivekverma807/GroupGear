@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>TravelLog</title>
+    <title>GroupGear</title>
     <link rel="icon" type="image/png" href="../Images/alps_favicon.png">
     <meta name="description" content="Connect with people over travelling">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,7 +25,7 @@
         <nav class="navbar" id="header">
             <div class="Logo">
                 <img src="../Images/mountain.png" class="Logo-Img" alt="Alps-Logo" usemap="#home">
-                <a href="../index.html"><span class="Logo-Text">TRAVELLOG</span></a>
+                <a href="../index.html"><span class="Logo-Text">GroupGear</span></a>
             </div>
             <div class="navigation">
                 <ul class="menu">
