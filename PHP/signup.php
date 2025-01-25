@@ -100,8 +100,8 @@
         <input type="password" placeholder="Confirm Password" name="confirm" id="confirm" required>
       </div>
 
-      <iframe id="t-and-c" src="terms-and-conditions.php" height="100" width="100%" title="Terms and Conditions"></iframe>
-      <input type="checkbox" name="Agree" value="Yes" required> <span class="Acc">I Agree to the Terms and Conditions.</span>
+      <!-- <iframe id="t-and-c" src="terms-and-conditions.php" height="100" width="100%" title="Terms and Conditions"></iframe> -->
+      <!-- <input type="checkbox" name="Agree" value="Yes" required> <span class="Acc">I Agree to the Terms and Conditions.</span> -->
 
       <input class="btn" type="submit" value="Sign Up" name="signup">
       <hr>
