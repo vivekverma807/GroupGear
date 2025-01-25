@@ -6,7 +6,7 @@ function dbConnect()
     $dbServer = "localhost";
     $username = "root";
     $password = "";
-    $dbName = "travellog";
+    $dbName = "groupgear";
     $conn = new mysqli($dbServer, $username, $password, $dbName);
 
     if ($conn->ping()) {
