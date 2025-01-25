@@ -89,19 +89,19 @@ CREATE TABLE `notifications` (
 --
 
 INSERT INTO `notifications` (`notif_id`, `user_id`, `notification`, `timestamp`) VALUES
-(1, 1, 'Welcome to TravelLog', '2021-06-02 22:01:18'),
-(2, 2, 'Welcome to TravelLog', '2021-06-02 22:02:08'),
-(3, 3, 'Welcome to TravelLog', '2021-06-02 22:02:22'),
-(4, 4, 'Welcome to TravelLog', '2021-06-02 22:02:33'),
-(5, 5, 'Welcome to TravelLog', '2021-06-02 22:02:41'),
-(6, 6, 'Welcome to TravelLog', '2021-06-02 22:02:48'),
-(7, 3, '@sn2606 sent you a friend request.', '2021-06-02 22:56:03'),
-(8, 3, '@noora sent you a friend request.', '2021-06-02 23:02:45'),
-(9, 3, '@jane sent you a friend request.', '2021-06-02 23:03:30'),
-(10, 3, '@johnny sent you a friend request.', '2021-06-02 23:04:13'),
-(11, 3, '@mel21 sent you a friend request.', '2021-06-02 23:04:48'),
-(12, 7, 'Welcome to TravelLog', '2021-06-03 16:18:44'),
-(13, 7, '@louis.d sent you a friend request.', '2021-06-04 21:17:02');
+(1, 1, 'Welcome to TravelLog', '2025-01-25 22:01:18'),
+(2, 2, 'Welcome to TravelLog', '2025-01-25 22:02:08'),
+(3, 3, 'Welcome to TravelLog', '2025-01-25 22:02:22'),
+(4, 4, 'Welcome to TravelLog', '2025-01-25 22:02:33'),
+(5, 5, 'Welcome to TravelLog', '2025-01-25 22:02:41'),
+(6, 6, 'Welcome to TravelLog', '2025-01-25 22:02:48'),
+(7, 3, '@sn2606 sent you a friend request.', '2025-01-25 22:56:03'),
+(8, 3, '@noora sent you a friend request.', '2025-01-25 23:02:45'),
+(9, 3, '@jane sent you a friend request.', '2025-01-25 23:03:30'),
+(10, 3, '@johnny sent you a friend request.', '2025-01-25 23:04:13'),
+(11, 3, '@mel21 sent you a friend request.', '2025-01-25 23:04:48'),
+(12, 7, 'Welcome to TravelLog', '2025-01-03 16:18:44'),
+(13, 7, '@louis.d sent you a friend request.', '2025-01-25 21:17:02');
 
 -- --------------------------------------------------------
 
@@ -122,22 +122,22 @@ CREATE TABLE `posts` (
 --
 
 INSERT INTO `posts` (`post_id`, `content`, `content_img`, `user_id`, `created_at`) VALUES
-(1, 'Test data', '', 3, '2021-04-26 11:15:48'),
-(2, 'Had the pleasure of visiting this amazing website', NULL, 6, '2021-04-26 16:23:25');
+(1, 'Test data', '', 3, '2025-01-25 11:15:48'),
+(2, 'Had the pleasure of visiting this amazing website', NULL, 6, '2025-01-25 16:23:25');
 INSERT INTO `posts` (`post_id`, `content`, `content_img`, `user_id`, `created_at`) VALUES
-(5, 'These cliffs are the most beautiful place in the world', '', 4, '2021-04-26 17:56:29');
+(5, 'These cliffs are the most beautiful place in the world', '', 4, '2025-01-25 17:56:29');
 INSERT INTO `posts` (`post_id`, `content`, `content_img`, `user_id`, `created_at`) VALUES
-(6, 'What a beautiful, rainy day!', '', 2, '2021-05-04 11:27:42');
+(6, 'What a beautiful, rainy day!', '', 2, '2025-01-25 11:27:42');
 INSERT INTO `posts` (`post_id`, `content`, `content_img`, `user_id`, `created_at`) VALUES
-(7, 'BnW shot', '', 1, '2021-05-05 06:04:58');
+(7, 'BnW shot', '', 1, '2025-01-25 06:04:58');
 INSERT INTO `posts` (`post_id`, `content`, `content_img`, `user_id`, `created_at`) VALUES
-(8, 'Hello world', '', 1, '2021-05-16 11:32:27');
+(8, 'Hello world', '', 1, '2025-01-25 11:32:27');
 INSERT INTO `posts` (`post_id`, `content`, `content_img`, `user_id`, `created_at`) VALUES
-(9, 'The nicest view', '', 5, '2021-06-03 12:47:36');
+(9, 'The nicest view', '', 5, '2025-01-25 12:47:36');
 INSERT INTO `posts` (`post_id`, `content`, `content_img`, `user_id`, `created_at`) VALUES
-(10, 'Clicked a pic today!', '', 3, '2021-06-04 17:38:40');
+(10, 'Clicked a pic today!', '', 3, '2025-01-25 17:38:40');
 INSERT INTO `posts` (`post_id`, `content`, `content_img`, `user_id`, `created_at`) VALUES
-(11, 'Making a post', '', 1, '2021-06-06 12:02:00');
+(11, 'Making a post', '', 1, '2025-01-25 12:02:00');
 
 -- --------------------------------------------------------
 
