@@ -162,6 +162,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`user_id`, `name`, `email`, `username`, `password`, `status`, `profile_img`, `location`) VALUES
 (1, 'Swaranjana Nayak', 'swaranjananayak@gmail.com', 'sn2606', '$2y$10$c90eU23DIyTv2DYY18lhzeBiaQTCtjvHjSgKug0tiu7Nyeg46sqfK', 'Change Status','' , 'new_location'),
+INSERT INTO `users` (`user_id`, `name`, `email`, `username`, `password`, `status`, `profile_img`, `location`) VALUES
 (2, 'Melanie Hamilton', 'melanie.hamilton@gmail.com', 'mel21', '$2y$10$w0wbw1MRipHs.pz0YECv0.YVU3FJc985FnPIWAHmKpHyMwsNrNREi', 'Exploring the world one day at a time!', '', 'Ireland');
 INSERT INTO `users` (`user_id`, `name`, `email`, `username`, `password`, `status`, `profile_img`, `location`) VALUES
 (3, 'Louis Dickinson', 'louis.dickinson@email.com', 'louis.d', '$2y$10$WfW4zTPq5oxtyc7w9PYwRulRxPoEH2bagzXFNpegq6BkhTA0v5JcC', 'Hello i am exploring','' , 'Earth');
