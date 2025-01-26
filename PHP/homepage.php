@@ -9,7 +9,7 @@ session_start();
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>GroupGear</title>
-  <link rel="icon" type="image/png" href="../Images/alps_favicon.png">
+  <link rel="shortcut icon" href="./Images/mountain.png" type="image/x-icon">
   <meta name="description" content="Connect with people over travelling">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- bootstrap -->

@@ -1,7 +1,7 @@
 <?php
 include "header.php";
 ?>
-
+<link rel="shortcut icon" href="./Images/mountain.png" type="image/x-icon">
 <link rel="stylesheet" href="../CSS/notification.css">
 <main>
     <!-- ==================== -->
