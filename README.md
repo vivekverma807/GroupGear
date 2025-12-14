@@ -144,12 +144,3 @@ Developed by **Vivek Kumar Verma**
 GitHub: [https://github.com/vivekverma807](https://github.com/vivekverma807)
 
 ---
-
-If you want, I can also:
-
-1. Shorten this README for college submission
-2. Add screenshots section
-3. Create database schema documentation
-4. Write a project abstract & objectives section
-
-Just tell me the option number.
